@@ -1,0 +1,20 @@
+.book {
+    margin-bottom: 25px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    vertical-align: center;
+    max-width: 500px;
+}
+
+.bookContent {
+    margin-left: 25px;
+    padding-right: 20px;
+    width: 300px;
+    max-width: 300px;
+}
+
+.book-container {
+    display: inline-block;
+
+}
